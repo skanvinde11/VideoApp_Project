@@ -3,8 +3,15 @@ This project is a comprehensive manual testing suite for a Video App for webinar
 
 
 **#Repository Structure**
+Test Strategy: Describes the overall approach to testing, including testing types, methodologies, and tools used.
+
 Test Plan Document: A detailed test plan outlining the strategy, scope, environment, entry and exit criteria, roles, and schedule for testing the Video App.
+
 Test Cases: A set of well-defined test cases covering all major features of the app, including login, home page, starting a meeting, scheduling a meeting, joining a meeting, in-meeting features, and viewing past meetings.
+
+Test Metrics: Metrics are used to measure testing activities' effectiveness and progress.
+
+Bug Report: Template or format for reporting issues, including severity, priority, reproduction steps, and status.
 
 
 **#Features Covered**

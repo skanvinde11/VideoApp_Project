@@ -16,9 +16,15 @@ Bug Report: Template or format for reporting issues, including severity, priorit
 
 **#Features Covered**
 Home Page: Verifying the presence and functionality of all key elements.
+
 Login Page: Testing login with correct/incorrect credentials, language selection, and guest login.
+
 Start a Meeting: Ensuring users can initiate new meeting sessions.
+
 Schedule a Meeting: Validating the scheduling process, including entering and saving meeting details.
+
 Join a Meeting: Checking both valid and invalid meeting ID scenarios.
+
 In-Meeting Features: Testing the functionality of enabling/disabling the microphone and camera.
+
 View Past Meetings: Verifying that users can access and review past meetings.
